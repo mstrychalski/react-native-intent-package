@@ -1,0 +1,25 @@
+{
+  "name": "react-native-intent-package",
+  "version": "0.0.1",
+  "description": "A react-native module for running external applications by package name",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstrychalski/react-native-intent-package.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "android"
+  ],
+  "author": "Michał Strychalski <mstrychalski92@gmail.com>",
+  "license": "MIT",
+  "rnpm": {
+    "commands": {
+      "postlink": "node_modules/react-native-intent-package-manager/scripts/post-link.sh"
+    }
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
