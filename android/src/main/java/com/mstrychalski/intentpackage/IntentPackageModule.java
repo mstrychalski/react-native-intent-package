@@ -4,7 +4,7 @@
  *
  */
 
-package com.mstrychalski.ipmanager;
+package com.mstrychalski.intentpackage;
 
 import android.app.Activity;
 import android.content.Intent;

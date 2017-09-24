@@ -1,4 +1,4 @@
-package com.mstrychalski.ipmanager;
+package com.mstrychalski.intentpackage;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
