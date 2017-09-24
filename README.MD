@@ -13,3 +13,16 @@ A react-native module for launching external applications using package name
 or
 
 `$ rnpm link react-native-intent-package`
+
+## Usage
+
+```jsx
+import IntentPackage from 'react-native-intent-package';
+
+
+IntentPackage.openPackage('com.google.android.youtube').then((b) => {
+    //some logic
+}).catch((err) => {
+    console.log(err);
+});
+```
