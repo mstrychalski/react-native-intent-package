@@ -16,7 +16,7 @@
   "license": "MIT",
   "rnpm": {
     "commands": {
-      "postlink": "node_modules/react-native-intent-package-manager/scripts/post-link.sh"
+      "postlink": "node_modules/react-native-intent-package/scripts/post-link.sh"
     }
   },
   "peerDependencies": {
