@@ -1,6 +1,6 @@
 # react-native-intent-package-manager
 
-A react-native interface for using the Infrared (IR) transmitter in Android smartphones with [ConsumerIRManager](https://developer.android.com/reference/android/hardware/ConsumerIrManager.html). 
+A react-native module for launching external applications using package name 
 
 ## Getting started
 
