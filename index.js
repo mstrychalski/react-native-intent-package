@@ -2,6 +2,6 @@ import { NativeModules } from 'react-native';
 
 export const {
     runPackage,
-} = NativeModules.RNIPManagerModule;
+} = NativeModules.IntentPackageModule;
 
-export default NativeModules.RNIPManagerModule;
+export default NativeModules.IntentPackageModule;

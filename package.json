@@ -1,6 +1,6 @@
 {
   "name": "react-native-intent-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A react-native module for running external applications by package name",
   "main": "./index.js",
   "repository": {
